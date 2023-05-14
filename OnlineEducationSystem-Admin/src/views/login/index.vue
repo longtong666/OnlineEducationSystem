@@ -9,7 +9,7 @@
       label-position="left"
     >
       <div class="title-container">
-        <h3 class="title">OES在线教育系统后台管理系统</h3>
+        <h3 class="title">网络教学系统后台管理系统</h3>
       </div>
 
       <el-form-item prop="username">
@@ -254,7 +254,7 @@ $light_gray: #eee;
   position: fixed;
   height: 100%;
   width: 100%;
-  background-image: url("../../assets/images/background.jpg");
+  background-image: url("../../assets/images/background2.jpg");
   background-size: 100% 100%;
   /* 背景图垂直、水平均居中 */
   background-position: center center;

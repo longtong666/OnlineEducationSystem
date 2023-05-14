@@ -121,7 +121,7 @@ export default {
         avatar: "",
       },
       // 上传的URL地址
-      uploadAvatarURL: "http://localhost:8500/admin/oss/uploadAvatarFile",
+      uploadAvatarURL: "http://localhost:9001/admin/oss/uploadAvatarFile",
       // 表单规则
       rules: {
         name: [

@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'OES在线教育系统',
+  title: '网络教学系统',
 
   /**
    * @type {boolean} true | false

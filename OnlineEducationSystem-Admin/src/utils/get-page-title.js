@@ -1,6 +1,6 @@
 import defaultSettings from '@/settings'
 
-const title = defaultSettings.title || 'OES在线教育系统'
+const title = defaultSettings.title || '网络教学系统'
 
 export default function getPageTitle(pageTitle) {
   if (pageTitle) {

@@ -193,7 +193,7 @@ export default {
       // 文件上传列表
       fileList: [],
       // 接口API
-      BASE_API: "http://localhost:8500/admin/vod/uploadAliVideo",
+      BASE_API: "http://localhost:9001/admin/vod/uploadAliVideo",
     };
   },
   created() {

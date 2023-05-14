@@ -158,7 +158,7 @@ export default {
       // 科目二级分类
       subjectTwoList: [],
       // 上传路径
-      BASE_API: "http://localhost:8500/admin/oss/uploadAvatarFile",
+      BASE_API: "http://localhost:9001/admin/oss/uploadAvatarFile",
       // 表单规则
       rules: {
         title: [
