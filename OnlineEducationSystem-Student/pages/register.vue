@@ -119,7 +119,7 @@
               id="weixin"
               class="weixin"
               target="_blank"
-              href="http://localhost:8160/api/ucenter/wx/userLogin"
+              href="http://localhost:8008/api/ucenter/wx/userLogin"
               ><i class="iconfont icon-weixin"
             /></a>
           </li>

@@ -56,7 +56,9 @@ public class SmsController {
         // 过期时间
         String expireTime = "5";
         // param中code表示验证码,expire_at代表过期时间
-        String[] params = {code, expireTime};
+        //String[] params = {code, expireTime};
+        //我模板只有一个参数，所有要改。
+        String[] params = {code};
         // 阿里云短信服务难申请,因此直接在sendVerificationCode函数中返回为true
         // 现在改为腾讯云短信服务
         // 腾讯云需要将手机号加上86

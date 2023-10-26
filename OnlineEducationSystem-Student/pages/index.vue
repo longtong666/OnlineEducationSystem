@@ -79,7 +79,7 @@
                       </span>
                       <!-- {{}}为插值表达式 -->
                       <span class="fl jgAttr c-ccc f-fA">
-                        <i class="c-999 f-fA">{{ course.buyCount }}人学习</i>
+                        <i class="c-999 f-fA">{{ course.saleCount }}人学习</i>
                         |
                         <i class="c-999 f-fA">{{ course.viewCount }}浏览</i>
                       </span>
@@ -104,7 +104,7 @@
         <section class="container">
           <header class="comm-title">
             <h2 class="tac">
-              <span class="c-333">名师大咖</span>
+              <span class="c-333">优秀教师</span>
             </h2>
           </header>
           <div>

@@ -147,7 +147,7 @@ export default {
         // 课程描述
         description: "",
         cover:
-          "https://img2.huashi6.com/images/resource/2009/01/24/28h33392p0.jpg",
+          "https://i.niupic.com/images/2023/02/11/ak05.jpg",
         // 课程价格
         price: 0,
       },

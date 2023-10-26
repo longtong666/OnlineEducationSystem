@@ -4,11 +4,11 @@
     <header id="header">
       <section class="container">
         <h1 id="logo">
-          <a href="#" title="OES在线教育系统">
+          <a href="#" title="XX网络教学系统">
             <img
               src="~/assets/img/logo.png"
               width="100%"
-              alt="OES在线教育系统"
+              alt="XX网络教学系统"
             />
           </a>
         </h1>
@@ -22,7 +22,7 @@
               <a>课程</a>
             </router-link>
             <router-link to="/teacher" tag="li" active-class="current">
-              <a>名师</a>
+              <a>教师</a>
             </router-link>
           </ul>
           <!-- / nav -->
@@ -96,7 +96,7 @@
             </li>
             <!-- /未登录显示第1 li；登录后显示第2，3 li -->
           </ul>
-          <aside class="h-r-search">
+          <!-- <aside class="h-r-search">
             <form action="#" method="post">
               <label class="h-r-s-box">
                 <input
@@ -110,7 +110,7 @@
                 </button>
               </label>
             </form>
-          </aside>
+          </aside> -->
         </div>
         <aside class="mw-nav-btn">
           <div class="mw-nav-icon"></div>
@@ -135,10 +135,10 @@
           <ul class="of flink-list">
             <li>
               <a
-                href="https://github.com/nichijoux/"
-                title="nichijoux"
+              href="https://github.com/longtong666/"
+                title="longtong666"
                 target="_blank"
-                >nichijoux</a
+                >longtong666</a
               >
             </li>
           </ul>
@@ -152,11 +152,11 @@
                 <a href="#" title="联系我们" target="_blank">联系我们</a>|
                 <a href="#" title="帮助中心" target="_blank">帮助中心</a>|
                 <a href="#" title="资源下载" target="_blank">资源下载</a>|
-                <span>服务热线：010-111111(北京) 0755-1313115(深圳)</span>
-                <span>Github：nichijoux</span>
+                <span>服务热线：+86-15702326612(重庆) +86-18183014048(重庆)</span>
+                <span>Github：longtong666</span>
               </section>
               <section class="b-f-link mt10">
-                <span>©2022课程 版权鸣谢谷粒学院</span>
+                <span>©2023毕业设计</span>
               </section>
             </section>
           </section>

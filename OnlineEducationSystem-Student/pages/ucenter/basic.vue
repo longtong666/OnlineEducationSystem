@@ -72,7 +72,7 @@ export default {
         sex: "",
         sign: "",
       },
-      BASE_API: "http://localhost:8500/admin/oss/uploadAvatarFile",
+      BASE_API: "http://localhost:9001/admin/oss/uploadAvatarFile",
       // 允许的图片类型列表
       allowImageType: [
         "image/png",

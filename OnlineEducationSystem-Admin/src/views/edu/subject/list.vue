@@ -8,7 +8,7 @@
         <el-button type="primary" icon="el-icon-plus" @click="addTopSubject"
           >添加一级科目</el-button
         >
-        <a href="http://localhost:8500/admin/edu/subject/downloadSubject">
+        <a href="http://localhost:9001/admin/edu/subject/downloadSubject">
           <el-button
             type="warning"
             icon="el-icon-download"

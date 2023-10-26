@@ -71,7 +71,7 @@
                 type="checkbox"
                 checked="checked"
               />我已阅读并同意<a href="javascript:" target="_blank"
-                >《OES在线教育购买协议》</a
+                >《XX网络教学系统购买协议》</a
               >
             </p></label
           >

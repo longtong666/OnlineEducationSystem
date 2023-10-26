@@ -16,7 +16,7 @@ export default {
     // 获取验证码
     getVerificationCode(phone) {
         return request({
-            url: `${SMS_API_PATH}/sendVerificationCode/${phone}`,
+            url: `${SMS_API_PATH}/getVerificationCode/${phone}`,
             method: 'get'
         })
     }
